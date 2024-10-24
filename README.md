@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Narek
 
+⚠️ **Attention!** All examples on GitHub are just code snippets for demonstration purposes. All full-fledged projects are stored in private repositories for security reasons.
+
 ## 🚀 About Me
 I'm a full-stack developer with expertise in **PHP**, **Laravel**, **Vue**, and **Nuxt**. I have a rich career history, including roles as a developer, team lead, and CTO. Over the years, I've successfully implemented numerous projects, built effective teams, and created innovative products.
 
