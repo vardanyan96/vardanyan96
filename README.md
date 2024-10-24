@@ -86,7 +86,7 @@ I constantly stay up-to-date with new technologies and adhere to proven methodol
 
 ## 📫 Contact Me
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/narek-vardanyan-a5846b18b)
-- **Email**: [Email](vardanyan.work5@gmail.com)
+- **Email**: [Email](mailto:vardanyan.work5@gmail.com)
 - **Telegram**: [Telegram](https://t.me/vardanyan96)
 
 ## 📈 GitHub Stats
