@@ -7,8 +7,6 @@ I'm a full-stack developer with expertise in **PHP**, **Laravel**, **Vue**, and 
 
 I constantly stay up-to-date with new technologies and adhere to proven methodologies such as **Agile**, **Scrum**, and **DevOps**. I pride myself on delivering **high-quality solutions** and am passionate about **continuous learning** and growth.
 
-<hr>
-
 ## 💼 Skills
 ### Languages & Tools
 <p align="left">
@@ -85,8 +83,6 @@ I constantly stay up-to-date with new technologies and adhere to proven methodol
     <img src="https://img.shields.io/badge/Spatie-FF2D20?style=for-the-badge&logo=spatie&logoColor=white" alt="Laravel Spatie"/>
   </a>
 </p>
-
-<hr>
 
 <p align="left" style="background: rgb(201,223,247); 
 padding: 10px 20px;
@@ -594,8 +590,6 @@ border-radius: 10px">
   </a>
 </p>
 
-
-<hr>
 ## 📫 Contact Me
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/narek-vardanyan-a5846b18b)
 - **Email**: [vardanyan.work5@gmail.com](mailto:vardanyan.work5@gmail.com)
