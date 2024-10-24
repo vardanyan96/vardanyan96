@@ -12,8 +12,8 @@ I constantly stay up-to-date with new technologies and adhere to proven methodol
 - **Methodologies**: Agile, Scrum, DevOps
 
 ## 📫 Contact Me
-- **LinkedIn**: https://www.linkedin.com/in/narek-vardanyan-a5846b18b(#)
-- **Email**: vardanyan.work5@gmail.com(mailto:your-email@example.com)
+- **LinkedIn**: [https://www.linkedin.com/in/narek-vardanyan-a5846b18b](#)
+- **Email**: [vardanyan.work5@gmail.com](mailto:vardanyan.work5@gmail.com)
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
