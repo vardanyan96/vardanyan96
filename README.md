@@ -596,7 +596,7 @@ border-radius: 10px">
 - **Telegram**: [Telegram](https://t.me/vardanyan96)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vardanyan96&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
 - [**Project 1**](#) – Brief description.
